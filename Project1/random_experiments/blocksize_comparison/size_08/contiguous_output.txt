@@ -1,0 +1,200 @@
+NOT FOUND
+NOT FOUND
+OK
+FAIL
+OK
+FAIL
+OK
+FAIL
+FAIL
+FAIL
+NOT FOUND
+FAIL
+FAIL
+NOT FOUND
+FAIL
+OK
+FAIL
+FAIL
+FAIL
+NOT FOUND
+FAIL
+FAIL
+FAIL
+FAIL
+FAIL
+OK
+FAIL
+FAIL
+FAIL
+OK
+OK
+FAIL
+NOT FOUND
+FAIL
+NOT FOUND
+FAIL
+NOT FOUND
+OK
+FAIL
+NOT FOUND
+FAIL
+OK
+OK
+OK
+OK
+FAIL
+OK
+FAIL
+FAIL
+OK
+OK
+FAIL
+FAIL
+FOUND 18 3
+FAIL
+FAIL
+FAIL
+OK
+FAIL
+FAIL
+OK
+FAIL
+FAIL
+OK
+OK
+FAIL
+FAIL
+FAIL
+OK
+FAIL
+R16 R7 R7 R7 R13 R13 R13 R11 R11 R11 R11 R11 R2 R2 R2 R15 R15 R15 R15 R10 - R12 R12 R12 R12 R12 R5 R5 R5 R5 R3 R3 R3 R3 R1 R1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+FAIL
+FAIL
+OK
+FAIL
+FAIL
+FAIL
+FOUND 26 4
+NOT FOUND
+FAIL
+FAIL
+NOT FOUND
+NOT FOUND
+FAIL
+OK
+FAIL
+FAIL
+FAIL
+FAIL
+FAIL
+R16 R7 R7 R7 R13 R13 R13 R11 R11 R11 R11 R11 R2 R2 R2 R15 R15 R15 R15 R10 - R12 R12 R12 R12 R12 R5 R5 R5 R5 R3 R3 R3 R3 R1 R1 R17 R17 R17 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+FAIL
+OK
+FAIL
+FAIL
+38 5 21 22 23 24 25
+FAIL
+OK
+FAIL
+OK
+FAIL
+FOUND 21 3
+FAIL
+OK
+- R7 R7 R7 R13 R13 R13 R11 R11 R11 R11 R11 R2 R2 R2 - - - - R10 R10 R12 R12 R12 R12 R12 R5 R5 R5 R5 R3 R3 R3 R3 R1 R1 R17 R17 R17 R18 R18 R18 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+FOUND 30 4
+OK
+OK
+OK
+- R7 R7 R7 R13 R13 R13 R11 R11 R11 R11 R11 R2 R2 R2 R19 R19 - - R10 R10 R8 R8 R8 R8 R8 R5 R5 R5 R5 R3 R3 R3 R3 R1 R1 R17 R17 R17 R18 R18 R18 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+OK
+FAIL
+FAIL
+OK
+FAIL
+OK
+FAIL
+NOT FOUND
+R16 R16 R16 R16 R13 R13 R13 R11 R11 R11 R11 R11 R2 R2 R2 R19 R19 - - R10 R10 R8 R8 R8 R8 R8 R5 R5 R5 R5 R3 R3 R3 R3 R1 R1 R17 R17 R17 R18 R18 R18 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+FAIL
+FAIL
+FAIL
+FOUND 9 2
+OK
+FAIL
+FAIL
+OK
+FOUND 26 4
+OK
+FAIL
+R16 R16 R16 R16 R13 R13 R13 R11 R11 R11 R11 R11 R2 R2 R2 R19 R19 - - R10 R10 R8 R8 R8 R8 R8 R5 R5 R5 R5 R3 R3 R3 R3 R1 R1 R17 R17 R17 - - - R0 R0 R0 R14 R14 R14 R14 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+FAIL
+OK
+OK
+FAIL
+R16 R16 R16 R16 R13 R13 R13 R11 R11 R11 R11 R11 R2 R2 R2 R19 R19 R18 - R10 R10 R8 R8 R8 R8 R8 R5 R5 R5 R5 R3 R3 R3 R3 R1 R1 R17 R17 R17 - - - R0 R0 R0 R14 R14 R14 R14 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+FAIL
+FAIL
+FAIL
+OK
+FAIL
+FAIL
+OK
+FAIL
+FAIL
+FAIL
+FAIL
+NOT FOUND
+OK
+FOUND 23 3
+FAIL
+NOT FOUND
+FAIL
+FAIL
+FAIL
+FOUND 30 4
+FOUND 22 3
+OK
+FAIL
+FAIL
+OK
+FAIL
+FAIL
+OK
+FAIL
+FAIL
+OK
+FAIL
+FAIL
+OK
+FOUND 39 5
+FAIL
+20 3 12 13 14
+OK
+FOUND 39 5
+OK
+OK
+FAIL
+FAIL
+FAIL
+FAIL
+OK
+FAIL
+FOUND 39 5
+OK
+30 4 0 1 2 3
+FOUND 39 5
+FAIL
+OK
+OK
+FAIL
+R16 R16 R16 R16 - - - R11 R11 R11 R11 R11 R2 R2 R2 R19 R19 R9 R15 R15 R15 R8 R8 R8 R8 R8 R5 R5 R5 R5 R3 R3 R3 R3 - - - - R17 - - - - - - R14 R14 R14 R14 R12 R12 R12 R12 R12 R6 R6 R6 R6 R6 R4 R4 R4 R4 R4 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+FAIL
+OK
+NOT FOUND
+FAIL
+FAIL
+OK
+OK
+OK

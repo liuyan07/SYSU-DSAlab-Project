@@ -1,0 +1,200 @@
+NOT FOUND
+NOT FOUND
+OK
+FAIL
+OK
+FAIL
+OK
+FAIL
+FAIL
+FAIL
+NOT FOUND
+FAIL
+FAIL
+NOT FOUND
+FAIL
+OK
+FAIL
+FAIL
+FAIL
+NOT FOUND
+FAIL
+FAIL
+FAIL
+FAIL
+FAIL
+OK
+FAIL
+FAIL
+FAIL
+OK
+OK
+FAIL
+NOT FOUND
+FAIL
+NOT FOUND
+FAIL
+NOT FOUND
+OK
+FAIL
+NOT FOUND
+FAIL
+OK
+OK
+OK
+OK
+FAIL
+OK
+FAIL
+OK
+OK
+OK
+OK
+FAIL
+FOUND 18 2
+FAIL
+FAIL
+FAIL
+OK
+FAIL
+FAIL
+OK
+FAIL
+FAIL
+OK
+OK
+FAIL
+FAIL
+FAIL
+OK
+FAIL
+R16 R7 R7 R13 R13 R11 R11 R11 R2 R2 R15 R15 R10 R12 R12 R12 R5 R5 R3 R3 R1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+FAIL
+FAIL
+OK
+FAIL
+FAIL
+FAIL
+FOUND 26 2
+NOT FOUND
+OK
+FAIL
+NOT FOUND
+NOT FOUND
+FAIL
+OK
+FAIL
+FAIL
+OK
+OK
+FAIL
+R16 R7 R7 R13 R13 R11 R11 R11 R2 R2 R15 R15 R10 R12 R12 R12 R5 R5 R3 R3 R1 R17 R17 R15 R15 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+FAIL
+OK
+FAIL
+FAIL
+38 3 13 14 15
+OK
+OK
+OK
+OK
+FAIL
+FOUND 31 2
+FAIL
+OK
+- R7 R7 R13 R13 R11 R11 R11 R2 R2 - - R10 R12 R12 R12 R5 R5 R3 R3 R1 R17 R17 - - R18 R18 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+FOUND 30 2
+OK
+OK
+OK
+R8 R7 R7 R13 R13 R11 R11 R11 R2 R2 R8 R8 R10 R19 - - R5 R5 R3 R3 R1 R17 R17 - - R18 R18 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+OK
+FAIL
+FAIL
+OK
+FAIL
+OK
+FAIL
+NOT FOUND
+R8 R16 R16 R13 R13 R11 R11 R11 R2 R2 R8 R8 R10 R19 - - R5 R5 R3 R3 R1 R17 R17 - - R18 R18 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+FAIL
+FAIL
+FAIL
+FOUND 9 1
+OK
+FAIL
+FAIL
+OK
+FOUND 26 2
+OK
+FAIL
+R8 R16 R16 R13 R13 R11 R11 R11 R2 R2 R8 R8 R10 R19 R0 R0 R5 R5 R3 R3 R1 R17 R17 R14 R14 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+FAIL
+OK
+OK
+FAIL
+R8 R16 R16 R13 R13 R11 R11 R11 R2 R2 R8 R8 R10 R19 R0 R0 R5 R5 R3 R3 R1 R17 R17 R14 R14 R18 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+FAIL
+FAIL
+FAIL
+OK
+FAIL
+FAIL
+OK
+FAIL
+FAIL
+OK
+FAIL
+NOT FOUND
+OK
+FOUND 23 2
+OK
+NOT FOUND
+FAIL
+OK
+FAIL
+FOUND 38 3
+FOUND 22 2
+OK
+FAIL
+FAIL
+OK
+FAIL
+OK
+OK
+FAIL
+FAIL
+OK
+FAIL
+FAIL
+OK
+FOUND 39 3
+FAIL
+31 2 8 9
+OK
+FOUND 47 3
+OK
+OK
+OK
+OK
+FAIL
+FAIL
+OK
+OK
+FOUND 43 3
+OK
+30 2 1 2
+FOUND 47 3
+FAIL
+OK
+OK
+FAIL
+R8 R16 R16 - - R11 R11 R11 R2 R2 R8 R8 - R19 R17 - R5 R5 R3 R3 - R4 R4 R14 R14 R5 - R12 R12 R12 R9 R6 R6 R6 R4 R15 R15 R3 - - - - - - - - - - - - - - - - - - - - - - - - - -
+FAIL
+OK
+NOT FOUND
+FAIL
+FAIL
+OK
+OK
+OK

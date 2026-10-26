@@ -1,0 +1,19 @@
+# macOS metadata
+.DS_Store
+._*
+
+# JSON files and local VS Code settings
+*.json
+.vscode/
+
+# Compiled C/C++ artifacts
+*.o
+*.obj
+*.out
+*.exe
+*.a
+*.so
+*.dylib
+*.dSYM/
+build/
+cmake-build-*/
